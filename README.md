@@ -79,9 +79,3 @@ Me chamo Giovanne Silva Leal, tenho 26 anos e sou natural de São Paulo. Atualme
     style="padding-right: 20;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
-<br/>
-
-<img
-    height="380"
-    src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','PHP','Java'],datasets:[{data:[40,30,20,10]}]},options:{title:{display:true,text:'Principais%20linguagens%20de%20programação',fontColor:'white',fontSize:15},legend:{labels:{fontColor:'white'}},plugins:{datalabels:{color:''}}}}" 
-/>   
