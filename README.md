@@ -78,13 +78,7 @@ Me chamo Giovanne Silva Leal, tenho 26 anos e sou natural de São Paulo. Atualme
     width="40px" 
     style="padding-right: 20;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>          
-
-<br/>
-<br/>
-<br/>
-
-### 🧠 Nível de conhecimento
+/>
 <br/>
 
 <img
