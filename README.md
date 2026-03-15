@@ -2,17 +2,30 @@
 <br/>
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
-
-Me chamo Giovanne Silva Leal, tenho 26 anos e sou natural de São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga e em paralelo busco me especializar em temas relacionados a Ciência de Dados. Estou em busca de oportunidades no mercado para estágio, onde colocarei todos os meus conhecimentos adquiridos em prática. Acesse meu [LinkedIn.](https://www.linkedin.com/in/giovanne-leal-92029033a/)
-<br/>
 <br/>
 
-### 🧰 Linguagens e Ferramentas
+Atualmente construindo o **LivingSeed** (C#/.NET) e o App **RideSafe**<br>🚀 Explorando desenvolvimento web, web scraping e aplicativos com Flutter<br>💡 Interessado em arquitetura de software e soluções de Agentes de IA (A2A)
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/giovanne.leal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovanne-leal-92029033a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giovanne_leal@hotmail.com) 
+
+# 💻 Tech Stack:
 <br/>
+
+
 <img 
     align="left"
-    alt="Java" 
+    alt="C#" 
+    title="C#"
+    width="40px" 
+    style="padding-right:20;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left"
+    alt="Java"
+    title="Java"
     width="40px" 
     style="padding-right:20;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
@@ -59,11 +72,11 @@ Me chamo Giovanne Silva Leal, tenho 26 anos e sou natural de São Paulo. Atualme
 />
 <img 
     align="left"
-    alt="Git" 
-    title="Git"
+    alt="Dart" 
+    title="Dart"
     width="40px" 
-    style="padding-right: 20;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    style="padding-right: 20;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
 />
 <img 
     align="left"
@@ -89,3 +102,17 @@ Me chamo Giovanne Silva Leal, tenho 26 anos e sou natural de São Paulo. Atualme
     style="padding-right: 20;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+<img 
+    align="left"
+    alt="Flutter" 
+    title="Flutter"
+    width="40px" 
+    style="padding-right: 20;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+/>
+          
+<br/><br/>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanneLeal&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
