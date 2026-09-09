@@ -4,7 +4,7 @@
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 <br/>
 
-Atualmente construindo o **LivingSeed** (C#/.NET) e o App **RideSafe**<br>🚀 Explorando desenvolvimento web, web scraping e aplicativos com Flutter<br>💡 Interessado em arquitetura de software e soluções de Agentes de IA (A2A)
+🚀 Explorando desenvolvimento web, web scraping e aplicativos com Flutter<br>💡 Interessado em arquitetura de software e soluções de Agentes de IA (A2A), Junto com projetos voltados para a área de análise de dados.
 
 
 ## 🌐 Socials:
